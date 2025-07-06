@@ -14,7 +14,7 @@ Este projeto realiza uma análise exploratória de dados de lesões de jogadores
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## 🛠️ Ferramentas utilizadas
 
 - Python 3.x  
 - Pandas  
