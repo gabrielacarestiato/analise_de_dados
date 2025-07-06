@@ -1,6 +1,7 @@
 # 📊 Análise de lesões na Premier League
 
 Este projeto realiza uma análise exploratória de dados de lesões de jogadores profissionais de oito clubes da Premier League. O principal objetivo é investigar padrões e impactos das lesões em jogadores de futebol, considerando diversas variáveis.
+O projeto pode ser acessado através do [Google Colab](https://colab.research.google.com/drive/1e2s17mlqpnBoQaZhMUexZOchvx2SFySe?usp=sharing).
 
 ---
 
