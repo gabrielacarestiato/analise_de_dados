@@ -28,11 +28,13 @@ O projeto pode ser acessado através do [Google Colab](https://colab.research.go
 
 ## 🔍 Etapas realizadas
 
-1. Coleta e limpeza dos dados  
-2. Padronização e pré-processamento  
-3. Análise exploratória (EDA)  
-4. Visualização de dados (gráficos, histogramas e KDE)  
-5. Validação de hipóteses
+1. Escolha do dataset
+2. Análise do tipo de problema e do dataset
+3. Coleta e limpeza dos dados  
+4. Padronização e pré-processamento  
+5. Análise exploratória (EDA)  
+6. Visualização de dados (gráficos, histogramas e KDE)  
+7. Validação de hipóteses
 
 ---
 
