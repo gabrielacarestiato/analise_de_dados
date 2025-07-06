@@ -39,7 +39,7 @@ jupyter notebook MVP_GABRIELACARESTIATO_40530010055_20250_01.ipynb
 ```
 ou 
 
-O projeto pode ser acessado através do [Google Colab](https://colab.research.google.com/drive/1e2s17mlqpnBoQaZhMUexZOchvx2SFySe?usp=sharing)
+O projeto pode ser acessado através do [Google Colab](https://colab.research.google.com/drive/1e2s17mlqpnBoQaZhMUexZOchvx2SFySe?usp=sharing).
 
 ---
 
