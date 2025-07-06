@@ -40,7 +40,7 @@ Este projeto realiza uma análise exploratória de dados de lesões de jogadores
 - Lesões graves como cirurgias no joelho ou rupturas ligamentares resultam em longos períodos de recuperação (geralmente acima de 100 dias).
 - Lesões leves como torções e estiramentos têm tempos de afastamento mais curtos.
 - Goleiros e volantes estão entre os que mais sofrem lesões longas.
-- Não há uma relação clara entre a nota FIFA e o tipo de lesão, mas a maioria dos jogadores afetados tinha nota entre 75 e 83.
+- Não há uma relação clara entre a nota no FIFA e o tipo de lesão, mas a maioria dos jogadores afetados tinha nota entre 75 e 83.
 
 ---
 
