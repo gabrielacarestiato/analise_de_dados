@@ -50,4 +50,5 @@ O projeto pode ser acessado através do [Google Colab](https://colab.research.go
 ## Autora
 
 **Gabriela Carestiato** 
+
 [GitHub](https://github.com/gabrielacarestiato)
