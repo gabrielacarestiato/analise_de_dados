@@ -25,7 +25,7 @@ Este projeto realiza uma análise exploratória de dados de lesões de jogadores
 
 ---
 
-## 🔍 Etapas Realizadas
+## 🔍 Etapas realizadas
 
 1. Coleta e limpeza dos dados  
 2. Padronização e pré-processamento  
@@ -35,7 +35,7 @@ Este projeto realiza uma análise exploratória de dados de lesões de jogadores
 
 ---
 
-## 📈 Principais Descobertas
+## 📈 Principais descobertas
 
 - Lesões graves como cirurgias no joelho ou rupturas ligamentares resultam em longos períodos de recuperação (geralmente acima de 100 dias).
 - Lesões leves como torções e estiramentos têm tempos de afastamento mais curtos.
@@ -46,6 +46,5 @@ Este projeto realiza uma análise exploratória de dados de lesões de jogadores
 
 ## Autora
 
-**Gabriela Carestiato**  
-Estudante de Engenharia | PUC-Rio  
+**Gabriela Carestiato** 
 [GitHub](https://github.com/gabrielacarestiato)
