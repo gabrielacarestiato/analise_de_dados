@@ -17,7 +17,7 @@ O projeto pode ser acessado através do [Google Colab](https://colab.research.go
 
 ## 🛠️ Ferramentas utilizadas
 
-- Python 3.x  
+- Python 3.10.12  
 - Pandas  
 - NumPy  
 - Matplotlib  
